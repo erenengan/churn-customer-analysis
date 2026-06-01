@@ -135,5 +135,3 @@ The goal is to:
 ### Visualization
 
 * Tableau
-
-* Power BI (Upcoming)
